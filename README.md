@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dpe22
-- 👀 I’m interested in software, data science and intelligent systems, computer vision, cyber-physical systems, signal processing and communications
-- 🌱 I’m currently learning Python, C++, quantum mechanics, machine learning techniques, algorithms and data structures.
-- 💞️ I’m looking to collaborate on machine learning techniques for visual question answering, machine learning algorithms for detecting 3D objects in point clouds, self-supervision for graph data structures, speech analysis for medical diagnosis, and other interesting problems. 
+- 👀 I’m interested in software engineering, data analytics, and quantum engineering
+- 🌱 I’m currently learning how to use algorithms, data structures, and machine learning techniques in C++ and Python to design, analyze, and critique solutions to complex problems.
+- 💞️ I’m looking to collaborate on projects related to speech analysis for medical diagnosis, max flow image segmentation, and quantum cryptography. 
 - 📫 How to reach me: dpe22@bu.edu
